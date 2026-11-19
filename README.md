@@ -1,29 +1,10 @@
-# Demo-platform
-Independent demo repository for [Group-Internship](https://github.com/STERILITZIA02/Group-Internship).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/STERILITZIA02/Group-Internship/2050b920e57252aac1acef893688971e36dc6ab2/assets/brand/luxluane-dark-bg.png">
+  <img src="https://raw.githubusercontent.com/STERILITZIA02/Group-Internship/2050b920e57252aac1acef893688971e36dc6ab2/assets/brand/luxluane-light-bg.png" width="140" alt="luxluane">
+</picture>
 
-Project topic, features, technology stack, and deployment are to be agreed.
-There is no application or run command yet.
+# Garden planner · Platform prototype
 
-## Setup placeholders
+Workspace for touch interaction and saved layouts. The first prototype will test whether someone can move a tree on a phone or tablet, save the yard and reopen it with the tree where they placed it.
 
-| Item | Value |
-| --- | --- |
-| Demo objective and audience | To be agreed |
-| Scope and acceptance criteria | To be agreed |
-| Stack and dependencies | To be chosen |
-| Install / run / build commands | To be added |
-| Tests and verification | To be added |
-| Preview / deployment URL | To be added if needed |
-| Version | To be set by the project owner |
-
-## Working on this demo
-
-Plan work on the [main Sprint board](https://github.com/users/STERILITZIA02/projects/2).
-Create a task branch here and reference the main planning issue in the PR.
-After merging, update this demo's submodule reference in the main repository.
-See the [workflow guide](https://github.com/STERILITZIA02/Group-Internship/blob/main/docs/sprint-workflow.md).
-
-The current Repository checks workflow only checks whitespace and checkout;
-application checks will be added with the chosen stack.
-
-All rights reserved. See [LICENSE](LICENSE).
+[Prototype acceptance checks](https://github.com/STERILITZIA02/Group-Internship/wiki/Sprint-Plan#features-we-committed-to) · [Technology shortlist](https://github.com/STERILITZIA02/Group-Internship/wiki/Sprint-Plan#technology-shortlist) · [Platform tasks](https://github.com/STERILITZIA02/Group-Internship/issues?q=is%3Aissue%20label%3Aarea%3Ademo-platform)
