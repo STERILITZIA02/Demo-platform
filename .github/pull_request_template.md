@@ -1,6 +1,6 @@
 ## Change
 
-<!-- Link the planning issue (Refs CS778-LY-2026-Consulting-Challenge/landscape-studio#123) and describe the result. -->
+<!-- Link the planning issue (Refs CS778-LY-2026-Consulting-Challenge/LuxLuane-landscape-studio#123) and describe the result. -->
 
 ## Check
 
